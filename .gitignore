@@ -1,0 +1,8 @@
+__pycache__
+*.db
+*.egg-info
+.pytest_cache
+build
+dist
+oura_to_sqlite/secrets.json
+.eggs
