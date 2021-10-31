@@ -10,9 +10,9 @@ The code is tested with a Gen2 oura ring account.
 
 ## Authentication
 
-This app needs a "Personal Access Token".
-Setup yours here: <https://cloud.ouraring.com/personal-access-tokens>
-Copy ``oura_to_sqlite/secrets.json.template`` to ``oura_to_sqlite/secrets.json``.
+This app needs a "Personal Access Token".  
+Setup yours here: <https://cloud.ouraring.com/personal-access-tokens>  
+Copy ``oura_to_sqlite/secrets.json.template`` to ``oura_to_sqlite/secrets.json``.  
 And add your token to ``oura_to_sqlite/secrets.json``
 
 
@@ -37,7 +37,7 @@ oura-to-sqlute <db_path>
 ```
 
 
-## Use with [Datasette](https://github.com/simonw/datasette)
+## Use with [Datasette](https://datasette.io)
 
 install Datasette:
 
