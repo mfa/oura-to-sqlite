@@ -1,6 +1,6 @@
 # Oura export to sqlite
 
-![Tests](https://github.com/mfa/oura-to-sqlite/workflows/Tests/badge.svg)
+[![Tests](https://github.com/mfa/oura-to-sqlite/actions/workflows/tests.yml/badge.svg)](https://github.com/mfa/oura-to-sqlite/actions/workflows/tests.yml)
 
 ## About
 
